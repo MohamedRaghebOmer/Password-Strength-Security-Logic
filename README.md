@@ -1,6 +1,6 @@
 # 🔐 Password Strength Checker
 
-A fully self-designed Windows Forms application that evaluates password strength in real time and estimates how long it would take to crack a given password using brute-force techniques.
+A Windows Forms application that evaluates password strength in real time and estimates how long it would take to crack a given password using brute-force techniques.
 
 > ⚠️ This project was designed, planned, and implemented entirely from scratch with no external guidance or templates.
 
@@ -133,16 +133,3 @@ This tool is intended for **educational and awareness purposes only**.
 - Progress bar or visual strength meter
 - Export analysis report
 - Unit tests for core logic
-
----
-
-## ⭐ Final Note
-
-This project represents a major milestone as a first fully planned and self-built application.  
-Feedback and suggestions are always welcome!
-
----
-
-## 🧑‍💻 Author
-
-**Mohamed Ragheb** 
