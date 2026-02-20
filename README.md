@@ -1,4 +1,5 @@
 # 🛡️ Password Strength & Security Logic Analyzer
+<img width="1686" height="1047" alt="image" src="https://github.com/user-attachments/assets/eb0d3473-01e9-4726-9bc7-3b5f0bf1819b" />
 
 This project is a deep dive into **Backend Logic** and **Security Algorithms** using C#. While it uses Windows Forms for the interface, the primary focus was to build a robust engine that can accurately evaluate password complexity beyond just checking the length.
 
